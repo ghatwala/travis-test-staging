@@ -33,6 +33,6 @@ script:
 - sudo docker info
 - sudo docker run hello-world
 #- git clone https://github.com/travis-ci/travis-logs.git
-- git clone https://github.com/ghatwala/travis-logs.git
-- cd travis-logs
-- sudo docker build .
+#- git clone https://github.com/ghatwala/travis-logs.git
+#- cd travis-logs
+#- sudo docker build .
